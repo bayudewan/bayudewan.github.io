@@ -1,0 +1,238 @@
+<mjml>
+  <mj-body background-color="#D7EAED">
+
+    <mj-section background-color="#fff"
+    padding-top="0px" padding-bottom="0px" border-bottom="1px dashed #BEBEBE">
+        <mj-column vertical-align="top" width="100%">
+
+        <mj-image src="images/logo@2x.png" alt="" align="center" 
+        border="none" width="230px" padding-left="0px" padding-right="0px" 
+        padding-bottom="20px" padding-top="20px" />
+            
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff"
+    padding-top="0px" padding-bottom="0px" >
+        <mj-column vertical-align="top" width="100%">
+
+       <mj-text 
+       align="center" 
+       color="#002024" 
+       font-size="30px"
+       font-weight="bold" 
+       font-family="Playfair Display, Times New Roman, serif"
+       padding-left="25px" 
+       padding-bottom="20px"
+       padding-top="20px"
+       >
+           Don't Forget your E-Ticket!
+       </mj-text>
+            
+        </mj-column>
+    </mj-section>
+
+    <mj-section 
+    background-color="#fff" 
+    padding-top="0px"
+    padding-bottom="0px"
+    >
+        <mj-column  width="100%">
+
+        <mj-image src="images/raja-ampat@2x.jpg" alt="" align="center" 
+        border="none" width="550px" padding-left="0px" padding-right="0px" 
+        padding-bottom="0px" padding-top="0px" />
+            
+        </mj-column>
+    </mj-section>
+
+        <mj-section 
+        background-color="#fff" 
+        padding-top="0px" 
+        padding-bottom="20px"
+        
+        >
+
+        <mj-column 
+        vertical-align="middle" 
+        width="100%" 
+        border-bottom="1px dashed #BEBEBE"
+        padding-top="20px"
+        padding-bottom="30px"
+        >
+
+       <mj-text 
+       align="left" 
+       color="#002024" 
+       font-size="18px"
+       font-family="Nunito, Helvetica, Arial, sans-serif"
+       padding-left="25px"
+       padding-right="25px"
+       line-height="20px" 
+       >
+           Hi, Bayu Dewantoro
+           <br><br>
+           Your digital ticket has been printed successfully.
+           <br>
+           Booking ID <strong>#22408890</strong>
+
+
+       </mj-text>
+
+       <mj-table 
+       color="#002024" 
+       font-size="18px"
+       font-family="Nunito, Helvetica, Arial, sans-serif"
+       padding-left="25px"
+       padding-right="25px"
+       line-height="28px"
+       >
+
+       <tr>
+       <td colspan="3">Members</td>
+       </tr>
+
+       <tr>
+       <td><strong>Bayu Dewantoro<strong></td>
+       <td style="text-align: right;">Indonesia, ID</td>
+       </tr>
+
+       <tr>
+       <td><strong>Shane Finry<strong></td>
+       <td style="text-align: right;">Singapore, SG</td>
+       </tr>
+           
+       </mj-table>
+
+       <mj-table 
+       color="#002024" 
+       font-size="18px"
+       font-family="Nunito, Helvetica, Arial, sans-serif"
+       padding-left="25px"
+       padding-right="25px"
+       padding-bottom="30px"
+       line-height="28px"
+       >
+
+       <tr>
+       <td colspan="3">Travel Details</td>
+       </tr>
+
+       <tr>
+       <td><strong>Departure<strong></td>
+       <td style="text-align: right;">Raja Ampat</td>
+       </tr>
+
+       <tr>
+       <td><strong>Shane Finry<strong></td>
+       <td style="text-align: right;">Thu, 20 Oct 2020 </td>
+       </tr>
+           
+       </mj-table>
+
+       <mj-button
+       align="center"
+       font-size="18px"
+       font-weight="bold"
+       background-color="#FF9E53"
+       border-radius="8px"
+       color="#fff"
+       font-family="Nunito, Helvetica, Arial, sans-serif"
+       >
+       Check Detail
+       </mj-button>
+            
+        </mj-column>
+    </mj-section>
+    
+     </mj-section>
+
+        <mj-section 
+        background-color="#fff" 
+        padding-top="0px" 
+        padding-bottom="0px"
+        
+        >
+
+        <mj-column 
+        vertical-align="middle" 
+        width="100%" 
+        padding-top="0px"
+        padding-bottom="0px"
+        >
+
+       <mj-text 
+       align="left" 
+       color="#002024" 
+       font-size="18px"
+       font-family="Nunito, Helvetica, Arial, sans-serif"
+       padding-left="25px"
+       padding-right="25px"
+       line-height="20px" 
+       >
+           Need Help ?
+       </mj-text>       
+            
+        </mj-column>
+    </mj-section>
+
+    <mj-section 
+        background-color="#fff" 
+        padding-top="0px"
+        padding-bottom="20px"
+        
+        >
+
+        <mj-column>
+
+       <mj-table>
+
+       <tr>
+       <td style="width: 30px;">
+       <image src="images/ic_support@2x.png" width="45px">
+       </td>
+
+        <td style="
+        font-size: 18px; 
+        padding-left:10px; 
+        color: #002024; 
+        font-family: Nunito, Helvetica, Arial, sans-serif">
+        Support@fastflight.id
+        <br>
+        021-2020-2025 
+        </td>
+
+       </tr>
+           
+       </mj-table>
+            
+        </mj-column>
+    </mj-section>
+
+    <mj-section 
+    padding-bottom="30px"
+    padding-top="0px"
+
+    >
+        
+    <mj-column>
+
+    <mj-text 
+    align="center"
+     color="#B9B9B9" 
+    font-size="16px" 
+    font-family= "Nunito, Helvetica, Arial, sans-serif"
+    padding-left="25px"
+    padding-right="25px"
+    padding-bottom="0px"
+    padding-top="30px"
+    >
+        2020 © fastflight Copyright All Rights Reserved 
+    </mj-text>
+        
+    </mj-column>
+
+    </mj-section>
+      
+  </mj-body>
+</mjml>
