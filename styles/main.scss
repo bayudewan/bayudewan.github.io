@@ -36,7 +36,6 @@ body {
     margin-top: -10px !important;
     margin-bottom: -8px !important;
     margin-right: -18px !important;
-    border-radius: 0px 0px 15px 0px;
 
     height: 70px;
 }
@@ -495,9 +494,8 @@ header {
                     border-right: 0;
                 }
 
-                .input-group-append {
-                    .btn {}
-                }
+                // .input-group-append {
+                // }
             }
 
             .btn-add-now {
