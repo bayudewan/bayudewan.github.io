@@ -18,7 +18,7 @@ body {
 }
 
 .nav {
-  background: #1ABC9C;
+  background: #1ABC9C !important;
   border-radius: 15px;
 }
 
