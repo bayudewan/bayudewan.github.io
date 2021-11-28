@@ -6,6 +6,10 @@ body {
 
 
 // Navigasi
+.navbar {
+    border-radius: 0.5rem;
+}
+
 .navbar-brand {
     img {
         max-height: 40px;
@@ -33,6 +37,7 @@ body {
     margin-right: -18px !important;
 
     height: 70px;
+    border-radius: 0.5rem;
 }
 
 .btn-login {
